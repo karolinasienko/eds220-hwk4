@@ -24,20 +24,22 @@ This repository is for Homework 4 for EDS 220: Working with Environmental Datase
 ## Data
 
 **Fire Perimeter**
+
 The data was retrieved from the [County of Los Angeles Enterprise GIS](https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about) and was downloaded as two separate shapefiles.
 
 **Landsat**
+
 The data was retrieved from the [Microsoft Planetary Computer data catalog](https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2) and clipped to an area surrounding the fire perimeters. This data should be used for visualization and educational purposes only, and was downloaded from the course's shared Google Drive.
 
 
 ## Repository Structure
-
+```
 .
 ├── LICENSE
 ├── README.md
 ├── hwk4-task2-false-color-SIENKO.ipynb
 └── .gitignore
-
+```
 
 ## References
 
