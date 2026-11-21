@@ -1,4 +1,4 @@
-# Visualizing the January 2021 Eaton and Palisades Fires Through True and False Imagery
+# Mapping the January 2021 Eaton and Palisades Fires
 
 
 ![Source: Cal OES News](images/la_fire.jpg)
