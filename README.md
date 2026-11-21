@@ -25,7 +25,7 @@ This repository is for Homework 4 for EDS 220: Working with Environmental Datase
 
 **Fire Perimeter**
 
-The data was retrieved from the [County of Los Angeles Enterprise GIS](https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about) and was downloaded as two separate shapefiles.
+The data was retrieved from the [County of Los Angeles Enterprise GIS](https://egis-lacounty.hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about), which was pulled from CAL FIRE's Historical Fire Perimeter Dataset. It was downloaded as two separate shapefiles, one for each fire.
 
 **Landsat**
 
