@@ -14,7 +14,7 @@ This repository is for Homework 4 for EDS 220: Working with Environmental Datase
 
 ## Highlights of the Analysis
 
-* Exploring Landsat 8 satellite imagery and wildfire perimeter vector data
+* Exploring wildfire perimeter vector data with `pandas` and `geopandas`
 * Exploring and wrangling raster data stored in a netCDF file using `xarray` and `rioxarray`
 * Restoring CRS information to enable geospatial analysis
 * Creating and customizing true and false color image maps
